@@ -57,7 +57,7 @@ const useOperation = () => {
     try {
       let calculatedResult = c_calculate(operacion);
       setResult(calculatedResult.toString());
-      setOperacion(calculatedResult.toString());
+      //setOperacion(calculatedResult.toString());
     } catch (error) {
       setResult('Error');
       setOperacion('');
