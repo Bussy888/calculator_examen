@@ -43,5 +43,5 @@ Escanea el código QR que aparece con Expo Go (Android) o con la aplicación de 
 ## Demostración de la App
 Aquí tienes un video de demostración de cómo funciona la aplicación:
 
-![Video de Demostración](demo_calculadora.mp4)
+### https://youtu.be/SQ-WP4rI3o8
 
