@@ -39,3 +39,9 @@ npm start
 ```
 ### 5. Escanea el código QR
 Escanea el código QR que aparece con Expo Go (Android) o con la aplicación de Cámara (iOS).
+
+## Demostración de la App
+Aquí tienes un video de demostración de cómo funciona la aplicación:
+
+![Video de Demostración](demo_calculadora.mp4)
+
